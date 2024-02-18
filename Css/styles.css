@@ -1,0 +1,71 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+/* Css for nav bar*/
+nav{
+ display: flex;
+ background-color: black;
+ align-items: center;
+ justify-content:space-between;
+ color: white;
+ padding-top:1rem;
+ padding-bottom:1rem;
+padding-left: 3rem;
+padding-right: 3rem;
+font-family: cursive;
+font-size: 1.5rem;
+}
+nav button
+{
+    height:2rem;
+}
+nav button:hover
+{
+    opacity: 0.3;
+}
+nav a{
+    text-decoration: none;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Css for Main section*/
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.title-text
+{
+    padding: 100px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.title-text>div
+{
+    padding-left: 0;
+}
+.title-text h1{
+ font-size:4rem;
+}
+.title-text h2{
+    font-size:3rem;
+    opacity:0.8;
+   }
+   .title-text h3{
+    font-size:2rem;
+    opacity: 0.5;
+   }
+.title-img
+{
+    padding: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
