@@ -3,65 +3,91 @@
     padding: 0;
     margin: 0;
 }
-/* Css for nav bar*/
-nav{
- display: flex;
- background-color: black;
- align-items: center;
- justify-content:space-between;
- color: white;
- padding-top:1rem;
- padding-bottom:1rem;
-padding-left: 3rem;
-padding-right: 3rem;
-font-family: cursive;
-font-size: 1.5rem;
-}
-nav button
-{
-    height:2rem;
-}
-nav a{
+/*Nav bar*/
+a{
     text-decoration: none;
-    font-size: large;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: sans-serif;
+    color: white;
 }
+#nav
+{
+    background-color: rgb(222, 11, 230);
+}
+.space
+{
+    width: 100%;
+    height:10rem;
+    margin: 0;
 
+    background-color: rgb(221, 11, 230);
+}
 /* Css for Main section*/
 main{
+    margin-top: -8rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
+    flex-direction: column;
+
 }
 .title-text
 {
-    padding: 100px;
 display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
+margin-left: 10vw;
 }
-.title-text>div
-{
-    padding-left: 0;
-}
-.title-text h1{
- font-size:4rem;
-}
+
 .title-text h2{
-    font-size:3rem;
     opacity:0.8;
    }
-   .title-text h3{
-    font-size:2rem;
-    opacity: 0.5;
+   .title-text h5{
+    opacity: 0.7;
    }
 .title-img
 {
-    padding: 70px;
+    padding-bottom: 30px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
+/*css for skill section */
+section
+{
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.section_heading{
+     padding: 2rem 0;
+    text-align: center;
+}
+
+
+/* ------------- Footer ------------- */
+  
+footer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color:rgb(222, 11, 230);
+    color: var(--grey);
+    padding-top: 20px;
+    font-size: 1rem;
+    margin-top: 5%;
+  }
+  
+  #contact a img {
+    width: 32px;
+    height: 32px;
+    margin: 4px;
+  }
+  
+  #contact {
+    margin: 1%;
+  }
