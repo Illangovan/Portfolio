@@ -66,7 +66,23 @@ section
     text-align: center;
 }
 
+/*-------------Project----------------*/
+.project
+{
+    display: flex;
+    flex-wrap: wrap;
+    gap:2rem;
+    justify-content: center;
+}
 
+/*--------------Contact section---------*/
+.contact
+{
+    width: 100%;
+    height: 50vh;
+    background-color: black;
+    color: white;
+}
 /* ------------- Footer ------------- */
   
 footer {
@@ -79,7 +95,6 @@ footer {
     color: var(--grey);
     padding-top: 20px;
     font-size: 1rem;
-    margin-top: 5%;
   }
   
   #contact a img {
