@@ -79,13 +79,15 @@ section
 .contact
 {
     width: 100%;
-    height: 50vh;
+    height: 40vh;
     background-color: rgb(222,11,230);
     color: black;
+    margin-top: 2rem;
 }
 .contact h1{
     text-align: center;
     padding-top: 2rem;
+    font-size: 2.5rem;
 }
 .contact ul{
     display: flex;
@@ -93,6 +95,7 @@ section
     list-style: none;
     justify-content: center;
     align-items:left;
+    
 }
 /* ------------- Footer ------------- */
   
@@ -116,4 +119,12 @@ footer {
   
   #contact {
     margin: 1%;
+  }
+  /*-----------media query---------------*/
+  @media(max-width:568px)
+  {
+    .contact h5{
+       font-size: 1rem;
+
+    }
   }
