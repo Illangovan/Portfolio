@@ -1,0 +1,20 @@
+
+.project_heading{
+    top:4rem;
+    position: relative;
+    text-align: center;
+}
+
+.project_container
+{
+    top: 3rem;
+    position: relative;
+    padding:2.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap:3.5rem;
+}
+
+
