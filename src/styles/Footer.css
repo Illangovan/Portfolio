@@ -26,6 +26,12 @@
     flex-direction: column;
     gap: 0;
 }
+.footer_icons{
+   display: flex;
+   flex-direction: row;
+   gap:1rem;
+}
+
 .h3
 {
     text-align: center;

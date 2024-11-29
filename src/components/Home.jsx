@@ -18,7 +18,7 @@ function Home() {
            <img src="/Images/photo.png" alt="image"  />
             <div className="current">
               <div className="square_bullet"></div>
-              <h3>Currently Learning React Js</h3>
+              <h3>Currently Learning React JS</h3>
             </div>
            </div>
       </div>
