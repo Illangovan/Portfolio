@@ -10,11 +10,17 @@ function Home() {
          </div>
          <div className="button">
          <a href="https://drive.google.com/file/d/1bsb3rfXHKhIvQ-JVCcgyJpx3bqKT_5s2/view?usp=sharing"><button id='download'>Download Resume</button></a>
-        <a href="#" ><button id='contact'>Contact me  !!</button></a>
+        <a href="mailto:andrewillango1212@gmail.com" ><button id='contact'>Contact me  !!</button></a>
         </div>
       </div>
       <div>
-           <img src="/Images/picture.jpeg" alt="image"  />
+          <div className="picture">
+           <img src="/Images/photo.png" alt="image"  />
+            <div className="current">
+              <div className="square_bullet"></div>
+              <h3>Currently Learning React Js</h3>
+            </div>
+           </div>
       </div>
     </div>
   )

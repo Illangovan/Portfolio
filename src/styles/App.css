@@ -1,13 +1,8 @@
 *
 {
-  font-family:'Courier New', Courier, monospace;
-  background-color:#3C3D37;
-  color: white;
-  /*
-  --background: #282c33;
-  --gray: #abb2bf;
-  --primary: #c778dd;
-  --white: #ffffff;*/
+ font-family:'Courier New', Courier, monospace;
+ background-color: #282c33;
+ color: white;
 }
 
 .menu
