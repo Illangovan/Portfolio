@@ -14,7 +14,7 @@ function Home() {
         </div>
       </div>
       <div>
-           <img src="../project.png" alt="image"  />
+           <img src="/Images/picture.jpeg" alt="image"  />
       </div>
     </div>
   )
