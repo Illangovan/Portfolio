@@ -9,7 +9,7 @@ function Footer() {
     <div className="footer_container">
         <div className="footer_name">
                 <h3>Illangovan M</h3>
-                <h3>andrewillango1212@gmail.com</h3>
+                <h4>andrewillango1212@gmail.com</h4>
         </div>
         <div className="footer_socials">
                <h3>socials</h3>

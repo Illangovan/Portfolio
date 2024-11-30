@@ -10,7 +10,7 @@ function Project() {
        {
         data.map((x)=>
           {
-             return <Cards name={x.name}  tech={x.tech} image={x.image} description={x.description}/>
+             return <Cards name={x.name}  tech={x.tech} image={x.image} description={x.description} code={x.code} view={x.view}/>
           })
        }
     </div>

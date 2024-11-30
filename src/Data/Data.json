@@ -3,21 +3,26 @@
     "tech":"NodeJs | ExpressJs | EJS | Bootstrap | API | Javascript | HTML | CSS",
     "name":"NEWSREADER",
     "image":"/Images/newsreader.png",
-    "description":"Designed and implemented a full-stack web application to display real-time news by integrating with the News API."
+    "description":"Designed and implemented a full-stack web application to display real-time news by integrating with the News API.",
+    "code":"https://github.com/Illangovan/NEWSREADER",
+    "view":"https://newsreader-p478.onrender.com/"
 
   },
   {
     "tech":"NodeJs | ExpressJs | EJS | Bootstrap | API | Javascript | HTML | CSS",
     "name":"WEATHER APP",
     "image":"/Images/weather.png",
-    "description":"Developed a user-friendly web application that enables users to check real-time weather conditions in multiple cities."
-
+    "description":"Developed a user-friendly web application that enables users to check real-time weather conditions in multiple cities.",
+     "code":"https://github.com/Illangovan/Weather-app",
+     "view":"https://illangovan.github.io/Weather-app/"
   },
   {
     "tech":"NodeJs | ExpressJs | EJS | Bootstrap | API | Javascript | HTML | CSS",
     "name":"PORTFOLIO",
     "image":"/Images/portfolio.png",
-    "description":"The website you are currently on."
+    "description":"The website you are currently on.",
+    "code":"https://github.com/Illangovan/Portfolio",
+    "view":"https://portfolio-seven-vert-82.vercel.app/"
 
   }
 ]

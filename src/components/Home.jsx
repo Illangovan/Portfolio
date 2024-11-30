@@ -5,7 +5,7 @@ function Home() {
     <div className='container'>
       <div className='description'>
         <div>
-         <h1 style={{marginBottom:"0.5rem"}}>I'm <span>Illangovan </span>an,<span> Software Developer</span></h1>
+         <h1 style={{marginBottom:"0.5rem"}}>I'm <span>Illangovan </span>an,<span> Software developer</span></h1>
          <h2>I craft responsive applications where technology meets creativity.</h2>
          </div>
          <div className="button">

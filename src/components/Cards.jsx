@@ -10,8 +10,8 @@ function Cards(props) {
       <h2>{props.name}</h2>
       <p>{props.description}</p>
       <div className='button_container'>
-    <a href="#" ><button id='code'>Code </button></a>
-    <a href="#"><button id='view'>View</button></a>
+    <a href={props.code} ><button id='code'>Code </button></a>
+    <a href={props.view}><button id='view'>View</button></a>
     </div>
     </div>
     
