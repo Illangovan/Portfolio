@@ -9,7 +9,7 @@
 
   },
   {
-    "tech":"NodeJs | ExpressJs | EJS | Bootstrap | API | Javascript | HTML | CSS",
+    "tech":"HTML | CSS | Javascript | Rest API | ",
     "name":"WEATHER APP",
     "image":"/Images/weather.png",
     "description":"Developed a user-friendly web application that enables users to check real-time weather conditions in multiple cities.",
@@ -17,7 +17,7 @@
      "view":"https://illangovan.github.io/Weather-app/"
   },
   {
-    "tech":"NodeJs | ExpressJs | EJS | Bootstrap | API | Javascript | HTML | CSS",
+    "tech":"HTML | CSS | Javascript | React | MaterialUI | ",
     "name":"PORTFOLIO",
     "image":"/Images/portfolio.png",
     "description":"The website you are currently on.",

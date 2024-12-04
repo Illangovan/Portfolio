@@ -20,7 +20,7 @@ function Footer() {
                </div>
         </div>
     </div>
-    <h3 className='h3'>Made by Illangoan </h3>
+    <h3 className='h3'>Made by Illangoan ❤️</h3>
     </>
   )
 }
